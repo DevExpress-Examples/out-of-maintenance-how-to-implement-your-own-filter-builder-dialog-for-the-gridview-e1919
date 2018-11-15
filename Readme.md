@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [GridControl.cs](./CS/B143073/GridControl.cs) (VB: [GridControl.vb](./VB/B143073/GridControl.vb))
+<!-- default file list end -->
 # How to implement your own Filter Builder dialog for the GridView
 
 
